@@ -1,2 +1,0 @@
-# spjedi-gold
-welcome back!
